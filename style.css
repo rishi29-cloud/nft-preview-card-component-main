@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    border:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: hsl(217, 54%, 11%);
+    font-size:16px;
+    padding: 100px 0px 150px;
+}
+
+.card
+{
+    width: 285px;
+    background-color: hsl(216, 50%, 16%);
+    margin: 0px auto;
+    border-radius: 20px;
+}
+.img
+{
+    width: 285px;
+    height: 270px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.heading{
+    font-size: 18px;
+    font-weight: 400;
+    color: hsl(0, 0%, 100%);
+    padding: 10px;
+}
+.text{
+    color:hsl(215, 51%, 70%);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 9px;
+}
+.clock
+{
+    padding: 10px;
+}
+.clock1{
+    height: 15px;
+}
+
+.clock2text-clock{
+    float: right;
+}
+.clock2text-clock{
+    padding: 0 3px;
+    color: hsl(215, 51%, 70%);
+}
+.clock1text-clock{
+    color: hsl(178, 100%, 50%);
+    padding: 0 1px;
+    
+}
+.avatar{
+    width: 25px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.text1{
+    color:hsl(0, 0%, 100%);
+    vertical-align:super
+}
+.footer{
+    margin: 10px;
+    padding: 10px;
+}
+.ftext
+{
+    color: hsl(215, 51%, 70%);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 5px;
+    vertical-align:super
+}
+.line1{
+        color: hsl(215, 51%, 70%);
+        border: 1px solid;
+}
+.line{
+    padding: 25px 10px 0px;
+}
